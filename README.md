@@ -19,22 +19,10 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
-
-
-
-Hi 👋 My name is Nitesh Taliyan
-===============================
-
-Full-stack web developer
 ------------------------
 
 Experienced Python backend developer committed to maintaining cutting-edge technical skills and up-to-date industry knowledge. I am a professional Python Developer with six months of training experience in the Software/IT Industry. I want to be a part of a company that indulges professional growth which provides a challenging and rewarding career while allowing me to utilize my knowledge and skills. To attain excellence in the professional world by gaining experience and exposure and help the company grow in whatever way I can through hard work and determination.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Niteshtaliyan.tech](http://niteshtaliyan.tech)
-* ✉️  You can contact me at [talyan.nitesh98@gmail.com](mailto:talyan.nitesh98@gmail.com)
-* 🚀  I'm currently working on [Blog website](http://https://starsocial-blog.herokuapp.com/)
-* 🧠  I'm learning Cybersecurity & Ethical hacking
 
 <a href="https://www.github.com/Niteshtaliyan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Niteshtaliyan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
