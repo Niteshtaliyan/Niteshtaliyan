@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://niteshtaliyan.me)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://niteshtaliyan.me)**
 
 - 📫 How to reach me **talyan.nitesh98@gmail.com**
 
