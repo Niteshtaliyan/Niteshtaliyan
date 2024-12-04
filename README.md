@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Blog Website](https://starsocial-blog.herokuapp.com/)**
+- 🔭 I’m currently working as a **[DevOps Engineer](https://www.linkedin.com/in/niteshtaliyan/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
